@@ -6,7 +6,7 @@ This repository serves as a comprehensive learning journal and technical review 
 
 ## Table of Contents
 
-1.  [Thailand’s Industrial Automation](#thailand’s-industrial-automation)
+1.  [Thailand’s Industrial Automation](#thailands-industrial-automation)
     
 2.  [Industrial Networking and IoT](#industrial-networking-and-iot)
     
